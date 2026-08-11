@@ -1,4 +1,4 @@
-package aula02;
+package Aula02;
 
 public class Principal {
     // metodo principal para executar o codigo
@@ -12,7 +12,7 @@ public class Principal {
     meuCarro.cor = "Vermelho";
     // Exibindo informações do veiculo
     System.out.println("Carro marca: " + meuCarro.marca + " cor: " + meuCarro.cor);
-    meuCarro.buzinar();
+    meuCarro.Buzinar();
 
     }
     
